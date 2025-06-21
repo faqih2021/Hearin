@@ -1,0 +1,9 @@
+streamlit
+transformers
+soundfile
+librosa
+torch
+pandas # Untuk membaca file .tsv
+numpy
+pydub
+datasets # Pustaka Hugging Face untuk memuat dataset
